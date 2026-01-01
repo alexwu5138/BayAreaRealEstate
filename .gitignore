@@ -1,0 +1,67 @@
+# Compiled source
+*.class
+*.pyc
+
+# Logs and databases
+*.log
+
+# IDE-specific files
+.idea/
+*.ctxt
+.mtj.tmp/
+workspace.xml
+
+# Package and compressed files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# OS generated files
+.DS_Store
+*/.DS_Store
+
+# Virtual machine crash logs
+hs_err_pid*
+
+# Build directories
+*/target
+*/target/*
+*/bin/*
+*/lib/*
+
+# Python environments
+__pycache__
+*/__pycache__/
+*/venv/*
+venv
+
+# Media files
+*.mp3
+*.mov
+*.mp4
+*.webm
+*.ogg
+
+# Miscellaneous
+*.pbt
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+
+.env
+
+
+
+
+
+
+
+
