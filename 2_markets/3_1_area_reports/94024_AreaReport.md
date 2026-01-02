@@ -4,7 +4,7 @@
 ## 1. Geological & Physical Setting
 
 ### 1.1 Geographic Position
-ZIP **94024** is centered on **Los Altos** and includes portions commonly associated with adjacent communities (e.g., Loyola and nearby unincorporated pockets), depending on USPS boundaries. citeturn0search4turn0search0  
+ZIP **94024** is centered on **Los Altos** and includes portions commonly associated with adjacent communities (e.g., Loyola and nearby unincorporated pockets), depending on USPS boundaries. 
 Regionally, it sits between **Palo Alto / Los Altos Hills** to the northwest and **Cupertino / Mountain View** to the south and east, with quick access to the SR‑85 / I‑280 / Foothill Expressway network.
 
 ### 1.2 Natural Boundaries & Topography
@@ -28,7 +28,7 @@ Regionally, it sits between **Palo Alto / Los Altos Hills** to the northwest and
 Mediterranean climate with warm, dry summers and mild winters. Relative to Peninsula coastal ZIPs, 94024 typically experiences **warmer daytime highs** and less marine layer persistence.
 
 ### 2.2 Wildfire Exposure & Historical Fire Activity
-Most of 94024 is not a classic wildland‑urban interface (WUI) footprint, but **address-level verification** is still prudent near foothill-adjacent edges. Santa Clara County provides an official resource for **Fire Hazard Severity Zone (FHSZ) maps** developed by the State Fire Marshal and adopted by local jurisdictions. citeturn0search7turn0search14
+Most of 94024 is not a classic wildland‑urban interface (WUI) footprint, but **address-level verification** is still prudent near foothill-adjacent edges. Santa Clara County provides an official resource for **Fire Hazard Severity Zone (FHSZ) maps** developed by the State Fire Marshal and adopted by local jurisdictions. 
 
 Practical implications if a property is within higher hazard tiers:
 - Defensible space and vegetation management expectations
@@ -36,7 +36,7 @@ Practical implications if a property is within higher hazard tiers:
 - Remodels/new builds may face ignition‑resistant construction requirements (jurisdiction-specific)
 
 ### 2.3 Flood, Stormwater, and Water-Related Hazards
-Flood exposure is generally **localized**, typically tied to creeks, low points, and stormwater capacity rather than broad floodplain risk. Best practice: confirm the **exact address** on FEMA flood mapping resources prior to offer strategy. citeturn0search15
+Flood exposure is generally **localized**, typically tied to creeks, low points, and stormwater capacity rather than broad floodplain risk. Best practice: confirm the **exact address** on FEMA flood mapping resources prior to offer strategy.
 
 ### 2.4 Seismic Activity & Fault Proximity
 94024 carries the baseline Bay Area seismic profile. Practical diligence is usually more valuable than fault-distance generalities:
@@ -54,7 +54,7 @@ Flood exposure is generally **localized**, typically tied to creeks, low points,
 ## 3. Community & Demographics
 
 ### 3.1 Communities, Neighborhoods, and Subdivisions
-Common sub-areas referenced in practice include **Central Los Altos**, **South Los Altos**, and other tract-defined neighborhoods; third‑party ZIP profiles often list these neighborhood labels for 94024. citeturn0search4
+Common sub-areas referenced in practice include **Central Los Altos**, **South Los Altos**, and other tract-defined neighborhoods; third‑party ZIP profiles often list these neighborhood labels for 94024.
 
 ### 3.2 Population Size, Density & Demographic Composition
 Los Altos is generally low‑density and owner‑occupied relative to nearby job centers, with a resident profile skewing toward professional households.
@@ -140,25 +140,25 @@ Micro-location matters: corridor-adjacent areas tend to see more opportunistic a
 ## 8. Schools & Education
 
 ### 8.1 Elementary Schools
-A substantial portion of 94024 is served by **Los Altos School District (LASD)** (address-based eligibility). LASD provides official enrollment guidance emphasizing residency within district boundaries. citeturn0search5turn0search9turn0search13
+A substantial portion of 94024 is served by **Los Altos School District (LASD)** (address-based eligibility). LASD provides official enrollment guidance emphasizing residency within district boundaries. 
 
 ### 8.2 Middle Schools
-LASD serves K–8 (address-based attendance). Verification by address is required; ZIP alone is not sufficient. citeturn0search9
+LASD serves K–8 (address-based attendance). Verification by address is required; ZIP alone is not sufficient. 
 
 ### 8.3 High Schools
-High-school assignment is commonly within **Mountain View–Los Altos Union High School District (MVLA)**. MVLA maintains district information and resources; attendance boundaries should be confirmed for a specific address. citeturn0search6turn0search10
+High-school assignment is commonly within **Mountain View–Los Altos Union High School District (MVLA)**. MVLA maintains district information and resources; attendance boundaries should be confirmed for a specific address.
 
 ### 8.4 Private, Charter & Alternative Options
 Private options exist regionally, but public school assignment is a primary demand driver in this submarket.
 
 ### 8.5 School Performance & Boundary Considerations
-In practice, **attendance boundaries materially influence pricing**, often more than incremental differences in interior finishes. For any target property, verify boundaries using official district tools and documentation. citeturn0search9turn0search6
+In practice, **attendance boundaries materially influence pricing**, often more than incremental differences in interior finishes. For any target property, verify boundaries using official district tools and documentation. 
 
 ---
 
 ## Practical Due‑Diligence Checklist (94024‑specific)
-1. **Schools:** verify LASD + MVLA attendance by exact address; do not infer from ZIP alone. citeturn0search9turn0search6  
-2. **Fire hazard:** check the county/state FHSZ map layer for the address (especially near foothill edges). citeturn0search7turn0search14  
-3. **Flood/drainage:** confirm FEMA flood zone and inspect site drainage performance (yards, downspouts, surface flow). citeturn0search15  
+1. **Schools:** verify LASD + MVLA attendance by exact address; do not infer from ZIP alone. 
+2. **Fire hazard:** check the county/state FHSZ map layer for the address (especially near foothill edges). 
+3. **Flood/drainage:** confirm FEMA flood zone and inspect site drainage performance (yards, downspouts, surface flow). 
 4. **Home age risks:** for mid‑century tracts, evaluate electrical service capacity, sewer lateral condition, and prior permit history.  
 5. **Noise/access:** assess proximity to arterials and resulting noise/air-quality tradeoffs versus commute convenience.  

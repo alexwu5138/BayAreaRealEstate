@@ -25,7 +25,7 @@ ZIP **95132** is generally associated with **Berryessa** and parts of **north‑
 Mediterranean valley climate: warm, dry summers and mild winters. Compared with Peninsula coastal ZIPs, 95132 typically runs warmer in summer afternoons with less marine-layer moderation.
 
 ### 2.2 Wildfire Exposure & Historical Fire Activity
-Wildfire exposure in 95132 is generally **lower than true wildland-interface foothill communities**, but the **foothill-adjacent edges** can present higher vegetation/ember considerations. The County and local fire agencies emphasize using the **Fire Hazard Severity Zone (FHSZ) maps** and CAL FIRE’s interactive mapping for address-level verification. citeturn0search2turn0search6turn0search10
+Wildfire exposure in 95132 is generally **lower than true wildland-interface foothill communities**, but the **foothill-adjacent edges** can present higher vegetation/ember considerations. The County and local fire agencies emphasize using the **Fire Hazard Severity Zone (FHSZ) maps** and CAL FIRE’s interactive mapping for address-level verification. 
 
 Practical implications if a property is mapped in higher hazard tiers:
 - Defensible space and vegetation management expectations
@@ -33,7 +33,7 @@ Practical implications if a property is mapped in higher hazard tiers:
 - Remodel/new build standards may be stricter (ignition-resistant details), depending on jurisdiction and mapped zone
 
 ### 2.3 Flood, Stormwater, and Water-Related Hazards
-Flood risk tends to be **localized**—often tied to creek proximity, low points, or stormwater conveyance limitations rather than broad floodplain exposure. Best practice is to check the exact address using FEMA’s Flood Map Service Center. citeturn0search14
+Flood risk tends to be **localized**—often tied to creek proximity, low points, or stormwater conveyance limitations rather than broad floodplain exposure. Best practice is to check the exact address using FEMA’s Flood Map Service Center. 
 
 ### 2.4 Seismic Activity & Fault Proximity
 95132 has the baseline Bay Area seismic profile. For buyers, the highest-value diligence usually focuses on:
@@ -99,7 +99,7 @@ Stable rental demand supported by commute practicality; strongest for single-fam
 ### 5.1 Major Roadways, Transit Access & Walkability
 95132 benefits from strong access to the broader Silicon Valley network (US‑101 / I‑680 / I‑880 connectivity varies by exact address). Walkability is mixed: higher near retail corridors; car-dependent in most interior tracts.
 
-A major differentiator is proximity to **Berryessa/North San José BART**, which opened for passenger service **June 13, 2020**, improving regional transit access for parts of the broader Berryessa area. citeturn0search7turn0search3
+A major differentiator is proximity to **Berryessa/North San José BART**, which opened for passenger service **June 13, 2020**, improving regional transit access for parts of the broader Berryessa area. 
 
 ### 5.2 Typical Commute Patterns (Directional)
 - North San José / Santa Clara / Sunnyvale: typically short-to-moderate drive times
@@ -145,26 +145,26 @@ Property crime (vehicle-related incidents, petty theft) is usually the more rele
 ## 8. Schools & Education
 
 ### 8.1 Elementary Schools
-A substantial portion of 95132 is served by **Berryessa Union School District (BUSD)** (K–8). BUSD provides an official **SchoolFinder** tool for address-based assignment. citeturn0search0turn0search4
+A substantial portion of 95132 is served by **Berryessa Union School District (BUSD)** (K–8). BUSD provides an official **SchoolFinder** tool for address-based assignment. 
 
 ### 8.2 Middle Schools
-BUSD includes multiple middle schools serving the area; address-based assignment remains the governing rule. BUSD publishes school listings and district resources. citeturn0search4turn0search8
+BUSD includes multiple middle schools serving the area; address-based assignment remains the governing rule. BUSD publishes school listings and district resources. 
 
 ### 8.3 High Schools
-High school assignment for Berryessa-area addresses is commonly within **East Side Union High School District (ESUHSD)**. ESUHSD provides a **Boundaries** page and attendance-area locator guidance for accurate address-level determination. citeturn0search1turn0search9
+High school assignment for Berryessa-area addresses is commonly within **East Side Union High School District (ESUHSD)**. ESUHSD provides a **Boundaries** page and attendance-area locator guidance for accurate address-level determination. 
 
 ### 8.4 Private, Charter & Alternative Options
 Private and alternative options exist across San José and nearby cities, but public attendance assignment remains a primary driver of pricing and demand.
 
 ### 8.5 Performance Metrics & Boundary Considerations
-For 95132, **school boundaries materially affect buyer demand**. Verification must be done by exact address using BUSD and ESUHSD tools; ZIP alone is not sufficient. citeturn0search0turn0search1
+For 95132, **school boundaries materially affect buyer demand**. Verification must be done by exact address using BUSD and ESUHSD tools; ZIP alone is not sufficient. 
 
 ---
 
 ## Practical Due‑Diligence Checklist (95132-specific)
-1. **Schools:** verify BUSD (K–8) and ESUHSD (9–12) attendance by exact address using official locators. citeturn0search0turn0search1  
-2. **Fire hazard:** check the County/CAL FIRE FHSZ and WUI layers for foothill-edge properties. citeturn0search6turn0search10  
-3. **Flood/drainage:** confirm FEMA flood zone; inspect site drainage performance, especially on sloped lots. citeturn0search14  
+1. **Schools:** verify BUSD (K–8) and ESUHSD (9–12) attendance by exact address using official locators. 
+2. **Fire hazard:** check the County/CAL FIRE FHSZ and WUI layers for foothill-edge properties. 
+3. **Flood/drainage:** confirm FEMA flood zone; inspect site drainage performance, especially on sloped lots.
 4. **Slope/retaining:** for hillside lots, evaluate retaining walls, surface drainage, and any signs of movement or water intrusion.  
 5. **Noise/access:** measure corridor exposure (arterials/freeways) versus interior-tract quiet, and price the tradeoff explicitly.  
-6. **Transit value:** if commute-to-Oakland/SF/inner East Bay matters, quantify proximity and last-mile friction to Berryessa BART. citeturn0search7  
+6. **Transit value:** if commute-to-Oakland/SF/inner East Bay matters, quantify proximity and last-mile friction to Berryessa BART. 

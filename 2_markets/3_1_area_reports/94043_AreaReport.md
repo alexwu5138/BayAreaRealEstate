@@ -55,17 +55,17 @@ Key residential neighborhoods in 94043 include:
 
 ### 3.2 Population Size, Density & Demographic Composition
 Recent ACS/ZIP sources report:  
-- **Population:** ≈ **32,000** residents. citeturn2search8turn2search18turn2search27  
-- **Land area:** ~8.5 sq mi; **density ~3,700–3,800 people/sq mi**, lower than many South Bay core ZIPs but higher in the purely residential tracts. citeturn2search8turn2search1turn2search15  
-- **Race/ethnicity:** roughly **White ~38–41%, Asian ~33–37%, Hispanic ~18–19%**, plus smaller Black and multiracial groups. citeturn0search13turn2search17  
+- **Population:** ≈ **32,000** residents.  
+- **Land area:** ~8.5 sq mi; **density ~3,700–3,800 people/sq mi**, lower than many South Bay core ZIPs but higher in the purely residential tracts. 
+- **Race/ethnicity:** roughly **White ~38–41%, Asian ~33–37%, Hispanic ~18–19%**, plus smaller Black and multiracial groups.
 
 ### 3.3 Household Characteristics (Age, Education, Household Size)
-- **Median age:** around **36 years**, slightly younger than the California median. citeturn2search8turn2search22  
-- **Median household income:** ≈ **$180–181k**, ~20% above the broader SJ‑Sunnyvale‑Santa Clara metro median. citeturn0search5turn2search4turn2search12turn2search24  
-- Very high educational attainment: **~70%+ adults with bachelor’s degree or higher**. citeturn0search5turn2search8  
-- Average household size ≈ **2.4 people**, indicating a mix of families and high‑earning singles/couples. citeturn2search22  
+- **Median age:** around **36 years**, slightly younger than the California median.  
+- **Median household income:** ≈ **$180–181k**, ~20% above the broader SJ‑Sunnyvale‑Santa Clara metro median.  
+- Very high educational attainment: **~70%+ adults with bachelor’s degree or higher**.   
+- Average household size ≈ **2.4 people**, indicating a mix of families and high‑earning singles/couples.   
 
-Niche ranks 94043 highly for **families, livability, and public schools**, placing it in the top tier of California ZIPs. citeturn2search27  
+Niche ranks 94043 highly for **families, livability, and public schools**, placing it in the top tier of California ZIPs.   
 
 ---
 
@@ -80,17 +80,17 @@ The architecture is more varied and somewhat denser than typical suburban tract-
 
 ### 4.2 Median Home Prices, Trends & Affordability Metrics
 Latest housing market data (Q3–Q4 2025):
-- **Redfin:** October 2025 median sale price ≈ **$1.6M**, down about **6.4% YoY**, with homes selling in ~15 days on market. citeturn0search12  
-- **Zillow:** median sale ≈ **$1.57M**, median list ≈ **$1.47M**, ~14 median days to pending, sale‑to‑list ratio ~1.02. citeturn0search4  
-- **Realtor.com:** September 2025 median listing ≈ **$1.5M**, flat year‑over‑year, with list PPSF around **$1,000/sq ft**. citeturn0search20  
+- **Redfin:** October 2025 median sale price ≈ **$1.6M**, down about **6.4% YoY**, with homes selling in ~15 days on market. 
+- **Zillow:** median sale ≈ **$1.57M**, median list ≈ **$1.47M**, ~14 median days to pending, sale‑to‑list ratio ~1.02. 
+- **Realtor.com:** September 2025 median listing ≈ **$1.5M**, flat year‑over‑year, with list PPSF around **$1,000/sq ft**. 
 
 Market characterization:
 - Still a **high‑priced West‑Coast tech‑hub ZIP**, but 2025 has seen **some softening** vs 2024 peak prices.
 - Short DOM and strong sale‑to‑list ratios show that **well‑priced homes near jobs and transit still move quickly**.
 
 ### 4.3 Income Distribution & Median Household Income
-- **Median household income ~ $181k**, with many households significantly above that level. citeturn0search5turn2search4turn2search12  
-- A large proportion of residents work in **high‑compensation tech roles**, pulling average earnings over **$110k+ per worker**. citeturn2search4turn2search9  
+- **Median household income ~ $181k**, with many households significantly above that level. 
+- A large proportion of residents work in **high‑compensation tech roles**, pulling average earnings over **$110k+ per worker**.  
 
 ### 4.4 Rental Market Snapshot
 - 94043 has a **meaningful share of renters**, especially in apartments and townhomes close to Whisman and North Bayshore.
@@ -133,15 +133,15 @@ Unlike many residential ZIPs, 94043 contains **significant employment clusters**
 ### 6.2 Trends or Outlook
 - 94043 remains a **core Silicon Valley job center**, even as some tech firms adjust office footprints in a hybrid‑work era.
 - Housing demand is **tightly coupled** to tech employment cycles; 2025 has seen some price softening, but employment fundamentals remain strong.
-- Regional forecasts call for **modest national home‑price growth** through 2026, with high‑cost tech markets like Mountain View expected to grow slowly but remain extremely expensive. citeturn0news81  
+- Regional forecasts call for **modest national home‑price growth** through 2026, with high‑cost tech markets like Mountain View expected to grow slowly but remain extremely expensive. 
 
 ### 6.3 Development Trends, Pipeline Projects & Market Outlook
-- **North Bayshore and North Whisman** remain focal points for **mixed‑use and higher‑density development**, including housing near large tech campuses, though entitlements and phasing evolve over time. citeturn0search9turn2search5  
+- **North Bayshore and North Whisman** remain focal points for **mixed‑use and higher‑density development**, including housing near large tech campuses, though entitlements and phasing evolve over time. 
 - The city is balancing **job‑housing ratios, traffic, and environmental constraints**, with an emphasis on transit‑oriented and bikeable growth rather than sprawl.
 - Overall, 94043’s long‑term outlook is tied to its role as a **high‑value “jobs + housing” hub** in central Silicon Valley.
 
 ### 6.4 Resident Sentiment & Public Opinion Indicators
-- Niche ranks 94043 among the **top ZIP codes in California** for families, public schools, and overall quality of life. citeturn2search27  
+- Niche ranks 94043 among the **top ZIP codes in California** for families, public schools, and overall quality of life.   
 - Residents often cite **proximity to jobs, transit, and downtown Mountain View** as key positives; concerns center on **housing costs, congestion, and school‑boundary nuance**.
 
 ---
@@ -149,11 +149,11 @@ Unlike many residential ZIPs, 94043 contains **significant employment clusters**
 ## 7. Safety
 ### 7.1 Overall Crime Levels
 Crime‑mapping sources show **higher crime rates than quiet suburban ZIPs**, but still better than many U.S. urban cores:
-- CrimeGrade estimates a **total crime rate ~40.9 incidents per 1,000 residents per year**. citeturn0search6  
-- The projected **2025 cost of crime ≈ $16.45M**, or **~$501 per resident / $1,235 per household**, about **0.5% of median household income**. citeturn0search6  
+- CrimeGrade estimates a **total crime rate ~40.9 incidents per 1,000 residents per year**. 
+- The projected **2025 cost of crime ≈ $16.45M**, or **~$501 per resident / $1,235 per household**, about **0.5% of median household income**. 
 
 ### 7.2 Violent vs. Property Crime
-- **Violent crime:** relatively low in absolute terms but concentrated in certain micro‑areas; 2025 projections put violent‑crime cost around **$540 per household**. citeturn0search14  
+- **Violent crime:** relatively low in absolute terms but concentrated in certain micro‑areas; 2025 projections put violent‑crime cost around **$540 per household**. 
 - **Property crime:** more common (theft, vehicle break‑ins, burglary), especially near commercial strips, transit hubs, and large parking lots.
 
 ### 7.3 Crime Trend & Recent Incidents
@@ -162,7 +162,7 @@ Crime‑mapping sources show **higher crime rates than quiet suburban ZIPs**, bu
 
 ### 7.4 Neighborhood‑Level Safety Concerns
 Risk is **highly localized** within 94043:
-- Residents perceive the **southwest parts of the ZIP** (closer to Castro/downtown residential tracts) as safer, while some **northern industrial/office areas** see more reported incidents. citeturn0search6  
+- Residents perceive the **southwest parts of the ZIP** (closer to Castro/downtown residential tracts) as safer, while some **northern industrial/office areas** see more reported incidents. 
 - Common concerns: package theft, bike theft, car break‑ins near large apartment complexes and office parking.
 Many neighborhoods maintain active **online groups and neighborhood‑watch style coordination**.
 
@@ -172,22 +172,22 @@ Many neighborhoods maintain active **online groups and neighborhood‑watch styl
 ### 8.1 Elementary Schools
 94043 is primarily served by **Mountain View Whisman School District (MVWSD)**. Key elementaries associated with 94043 include:
 
-- **Monta Loma Elementary** – GreatSchools currently around **6/10** (average performance); diverse student body, GATE options. citeturn1search4turn1search28  
-- **Theuerkauf Elementary** – GreatSchools **4/10**, below average on test metrics but also serving a higher‑needs population. citeturn1search9turn1search12  
-- **Stevenson Elementary** (choice/lottery‑based, in city but often considered by 94043 families) – GreatSchools **9/10**, strong academics and project‑based learning model. citeturn1search23turn1search18  
-- Other MVWSD elementaries (e.g., Gabriela Mistral, Bubb) are nearby and may be options depending on assignment and choice programs. citeturn1search18turn1search22  
+- **Monta Loma Elementary** – GreatSchools currently around **6/10** (average performance); diverse student body, GATE options. 
+- **Theuerkauf Elementary** – GreatSchools **4/10**, below average on test metrics but also serving a higher‑needs population. 
+- **Stevenson Elementary** (choice/lottery‑based, in city but often considered by 94043 families) – GreatSchools **9/10**, strong academics and project‑based learning model.  
+- Other MVWSD elementaries (e.g., Gabriela Mistral, Bubb) are nearby and may be options depending on assignment and choice programs. 
 
 ### 8.2 Middle Schools
 The primary middle school serving 94043 is:
-- **Crittenden Middle School** – GreatSchools **8/10**, Niche grade **A**, ~50% math and 64% reading proficiency, ~17:1 student‑teacher ratio. citeturn1search3turn1search17turn1search27turn1search8  
+- **Crittenden Middle School** – GreatSchools **8/10**, Niche grade **A**, ~50% math and 64% reading proficiency, ~17:1 student‑teacher ratio. 
 
 Other MVWSD middle schools (e.g., Graham) are also in the district but typically serve other attendance zones.
 
 ### 8.3 High Schools
 For high school, 94043 feeds into **Mountain View–Los Altos Union High School District (MVLA UHSD)**, with the dominant assignment being:
-- **Los Altos High School** – GreatSchools **10/10**, consistently one of the **top public high schools in California**; strong academics, AP offerings, and college‑prep outcomes. citeturn0search15turn0search7  
+- **Los Altos High School** – GreatSchools **10/10**, consistently one of the **top public high schools in California**; strong academics, AP offerings, and college‑prep outcomes.
 
-Some addresses may feed to **Mountain View High School**, which likewise carries **very strong ratings** (9–10/10 range) and rigorous academic programs. citeturn0search7turn1search13  
+Some addresses may feed to **Mountain View High School**, which likewise carries **very strong ratings** (9–10/10 range) and rigorous academic programs. 
 
 ### 8.4 Private, Charter & Alternative Educational Options
 In and around 94043, families also look at:
@@ -196,8 +196,8 @@ In and around 94043, families also look at:
 
 ### 8.5 School Performance Metrics & Boundary Considerations
 Key practical points:
-- **Elementary boundaries matter**: there is a notable spread between Theuerkauf (4/10) and Stevenson (9/10), so exact parcel assignments can significantly affect perceived desirability. citeturn1search9turn1search23turn1search18  
-- **Middle + High combination** (Crittenden + Los Altos/MVHS) is a major value driver; MVLA is widely considered a **top‑tier high‑school district** in California. citeturn0search7turn0search15turn1search3  
+- **Elementary boundaries matter**: there is a notable spread between Theuerkauf (4/10) and Stevenson (9/10), so exact parcel assignments can significantly affect perceived desirability. 
+- **Middle + High combination** (Crittenden + Los Altos/MVHS) is a major value driver; MVLA is widely considered a **top‑tier high‑school district** in California.
 - Many buyers willing to accept **smaller homes or attached product** in 94043 in exchange for **short commutes and access to MVWSD+MVLA schools**, especially Los Altos High.
 
 From a real‑estate perspective, 94043 offers a **rare blend of: (1) proximity to major tech campuses, (2) strong high‑school district, and (3) evolving, mixed‑use urban environment**, albeit with trade‑offs on noise, traffic, and elementary‑school variability.

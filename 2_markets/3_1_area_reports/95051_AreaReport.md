@@ -24,10 +24,10 @@ ZIP **95051** covers a large portion of **Santa Clara** on the valley floor, gen
 Mediterranean valley climate: warm, dry summers; mild winters. Compared with Peninsula coastal ZIPs, 95051 typically sees **warmer summer highs** and less marine-layer influence.
 
 ### 2.2 Wildfire Exposure & Historical Fire Activity
-Wildfire risk in 95051 is generally **lower than foothill and WUI communities**, but it remains prudent to verify fire-hazard designations for the **specific address** (especially near open-space edges). Santa Clara County provides updated Fire Hazard Severity Zone (FHSZ) resources, and the State Fire Marshal explains the FHSZ methodology. citeturn0search1turn0search9
+Wildfire risk in 95051 is generally **lower than foothill and WUI communities**, but it remains prudent to verify fire-hazard designations for the **specific address** (especially near open-space edges). Santa Clara County provides updated Fire Hazard Severity Zone (FHSZ) resources, and the State Fire Marshal explains the FHSZ methodology. 
 
 ### 2.3 Flood, Stormwater, and Water-Related Hazards
-Flooding concerns are usually **localized** (near drainage features or low points) rather than broad floodplain exposure. Best practice is to check the property against FEMA flood mapping (address-specific). citeturn0search15
+Flooding concerns are usually **localized** (near drainage features or low points) rather than broad floodplain exposure. Best practice is to check the property against FEMA flood mapping (address-specific). 
 
 ### 2.4 Seismic Activity & Fault Proximity
 95051 has the **baseline Bay Area seismic risk** expected for the Santa Clara Valley. Most practical diligence focuses on:
@@ -36,7 +36,7 @@ Flooding concerns are usually **localized** (near drainage features or low point
 - Retrofit status for older homes (where applicable)
 
 ### 2.5 Environmental Compliance, Superfund Sites & Pollution Indicators
-Santa Clara has a known legacy of **early electronics-industry groundwater contamination** at certain sites. EPA maintains profiles for local Superfund sites in Santa Clara, including **Micro Storage/Intel Magnetics** (Santa Clara 95051) and the **Intel Corp. (Santa Clara III)** site history (cleanup completed; removed from the NPL). citeturn0search3turn0search7turn0search11  
+Santa Clara has a known legacy of **early electronics-industry groundwater contamination** at certain sites. EPA maintains profiles for local Superfund sites in Santa Clara, including **Micro Storage/Intel Magnetics** (Santa Clara 95051) and the **Intel Corp. (Santa Clara III)** site history (cleanup completed; removed from the NPL).  
 For residential real estate, this typically translates into diligence around:
 - Understanding whether a home is near a mapped remediation area
 - Reviewing disclosures and environmental reports when relevant
@@ -47,7 +47,7 @@ For residential real estate, this typically translates into diligence around:
 ## 3. Community & Demographics
 
 ### 3.1 Communities, Neighborhoods, and Subdivisions
-Within 95051, the “neighborhood” concept is often tract-based (mid-century subdivisions, newer townhome clusters, and pockets of mixed-use). For a formal county reference, Santa Clara County Assessor provides neighborhood mapping resources (useful for consistent naming conventions). citeturn0search0
+Within 95051, the “neighborhood” concept is often tract-based (mid-century subdivisions, newer townhome clusters, and pockets of mixed-use). For a formal county reference, Santa Clara County Assessor provides neighborhood mapping resources (useful for consistent naming conventions). 
 
 ### 3.2 Population Size, Density & Demographic Composition
 Santa Clara is a **dense, job-rich** Silicon Valley city with a younger median age than many Peninsula suburbs and a high concentration of professional/technical households.
@@ -140,7 +140,7 @@ Corridor-adjacent properties may see more nuisance activity; interior tracts ten
 ## 8. Schools & Education
 
 ### 8.1 Elementary Schools
-Most of 95051 is served by **Santa Clara Unified School District (SCUSD)**, with school assignments determined by address. SCUSD publishes a district map for boundary context. citeturn0search2turn0search6
+Most of 95051 is served by **Santa Clara Unified School District (SCUSD)**, with school assignments determined by address. SCUSD publishes a district map for boundary context. 
 
 ### 8.2 Middle Schools
 SCUSD middle school assignment is address-based; verify via official district tools and boundary maps.
@@ -152,14 +152,14 @@ Key comprehensive high schools associated with SCUSD include **Wilcox High Schoo
 Private and alternative options exist in the Santa Clara / Sunnyvale / Cupertino orbit; they are often used to solve boundary or program-fit preferences.
 
 ### 8.5 School Performance Metrics & Boundary Considerations
-In 95051, the practical reality is that **school boundaries and program availability** can influence buyer demand and pricing. For any target property, boundary verification through SCUSD is standard diligence. citeturn0search2turn0search6
+In 95051, the practical reality is that **school boundaries and program availability** can influence buyer demand and pricing. For any target property, boundary verification through SCUSD is standard diligence. 
 
 ---
 
 ## Practical Due-Diligence Checklist (95051-specific)
-1. **Environmental context:** check proximity to known remediation/Superfund locations when applicable; review seller disclosures. citeturn0search3turn0search7  
-2. **Flood check:** verify FEMA flood zone for the exact address. citeturn0search15  
-3. **Fire hazard:** confirm FHSZ designation; usually low, but verify. citeturn0search1turn0search9  
+1. **Environmental context:** check proximity to known remediation/Superfund locations when applicable; review seller disclosures. 
+2. **Flood check:** verify FEMA flood zone for the exact address. 
+3. **Fire hazard:** confirm FHSZ designation; usually low, but verify.  
 4. **Home age risks:** for 1950s–1970s tracts, evaluate electrical capacity, sewer lateral condition, and foundation performance.  
 5. **Noise & access:** assess proximity to major arterials/expressways and associated noise/air-quality tradeoffs.  
-6. **Schools:** confirm SCUSD attendance by address (do not infer from ZIP alone). citeturn0search2turn0search6
+6. **Schools:** confirm SCUSD attendance by address (do not infer from ZIP alone).  

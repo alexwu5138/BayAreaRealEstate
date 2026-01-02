@@ -5,7 +5,7 @@
 
 ### 1.1 Geographic Position
 ZIP **95131** sits in **North San José**, generally north of Downtown San José and south/southeast of Milpitas, within the broader “North San José” submarket. Third‑party ZIP boundary profiles place 95131 within San José and identify associated neighborhood labeling (e.g., tract-style neighborhood references).  
-Source for general ZIP profile: https://www.unitedstateszipcodes.org/95131/ citeturn0search0
+Source for general ZIP profile: https://www.unitedstateszipcodes.org/95131/ 
 
 ### 1.2 Natural Boundaries & Topography
 - Predominantly **flat Santa Clara Valley floor** (alluvial plain), historically orchard/agricultural land before large-scale industrial and residential buildout.
@@ -29,8 +29,8 @@ For most of 95131, wildfire exposure is **lower than foothill / WUI ZIP codes**.
 
 ### 2.3 Flood, Stormwater, and Water-Related Hazards
 Flood risk in 95131 is typically **localized**, depending on micro-topography, stormwater conveyance, and proximity to mapped flood features. Best practice is to run the exact address through FEMA’s Flood Map Service Center (MSC) rather than inferring from the ZIP.  
-FEMA MSC: https://msc.fema.gov/portal/search citeturn0search2turn0search6  
-FEMA overview of flood maps: https://www.fema.gov/flood-maps citeturn0search14
+FEMA MSC: https://msc.fema.gov/portal/search 
+FEMA overview of flood maps: https://www.fema.gov/flood-maps 
 
 ### 2.4 Seismic Activity & Fault Proximity
 95131 has the baseline Bay Area seismic profile:
@@ -47,7 +47,7 @@ North San José has long-standing **electronics/tech industrial history** in the
 ## 3. Community & Demographics
 
 ### 3.1 Communities, Neighborhoods, and Subdivisions
-“North San José” is often described as spanning multiple ZIP codes (including 95131 among them) in brokerage market guides. citeturn0search16  
+“North San José” is often described as spanning multiple ZIP codes (including 95131 among them) in brokerage market guides. 
 Within 95131, neighborhoods are typically tract-defined (mid‑century tracts in some pockets; newer planned townhome communities in others).
 
 ### 3.2 Population Size, Density & Demographic Composition
@@ -72,7 +72,7 @@ Common patterns include:
   - Noise/air-quality tradeoffs for corridor-adjacent properties
 
 ### 4.2 Market & Pricing (sourced snapshot; verify current)
-A public market overview (which updates over time) reports a **median sale price** for 95131 and related market metrics. Treat this as a directional reference and confirm via MLS/Redfin for current contract strategy. citeturn0search12
+A public market overview (which updates over time) reports a **median sale price** for 95131 and related market metrics. Treat this as a directional reference and confirm via MLS/Redfin for current contract strategy. 
 
 ### 4.3 Income Distribution & Affordability
 Affordability is constrained by proximity to Silicon Valley employment centers and limited land for new low-density supply. Pricing is segmented heavily by:
@@ -84,7 +84,7 @@ Affordability is constrained by proximity to Silicon Valley employment centers a
 Rental demand is supported by:
 - Proximity to North San José and adjacent employment nodes
 - Townhome/condo supply relative to nearby ZIPs
-A public market overview reports a median rent figure (changes over time; verify current). citeturn0search12
+A public market overview reports a median rent figure (changes over time; verify current).
 
 ---
 
@@ -106,8 +106,8 @@ The key constraint is **peak-hour congestion** on major corridors; local improve
 
 ### 6.1 Major Employers Within or Near the ZIP Code
 North San José is a major tech employment corridor. Examples of large campus presence in the broader North San José area include:
-- Cisco’s San José campus footprint (campus mapping documentation). citeturn0search7
-- Samsung Semiconductor’s Silicon Valley campus presence in San José (regional anchor employer). citeturn0search3turn0search11
+- Cisco’s San José campus footprint (campus mapping documentation). 
+- Samsung Semiconductor’s Silicon Valley campus presence in San José (regional anchor employer). 
 
 ### 6.2 Local Business Environment & Commercial Activity
 Commercial activity clusters along arterials and near employment corridors. The ZIP’s economy is strongly influenced by Silicon Valley office/R&D demand cycles.
@@ -137,19 +137,19 @@ Property crime (vehicle-related incidents, petty theft) is generally the more re
 ## 8. Schools & Education
 
 ### 8.1 Elementary Schools (K–8)
-A substantial portion of 95131 is served by **Berryessa Union School District (BUSD)** (address-based assignment). Official district resources and school locator tools should be used for verification. citeturn0search1turn0search13turn0search9
+A substantial portion of 95131 is served by **Berryessa Union School District (BUSD)** (address-based assignment). Official district resources and school locator tools should be used for verification.
 
 ### 8.2 High Schools
-BUSD notes that its students attend high school within the **East Side Union High School District (ESUHSD)** (address-based attendance). citeturn0search9turn0search5
+BUSD notes that its students attend high school within the **East Side Union High School District (ESUHSD)** (address-based attendance). 
 
 ### 8.3 Boundary Considerations
-For offer strategy and pricing expectations, **verify school attendance by address** using official district tools; do not infer from ZIP alone. citeturn0search13turn0search5
+For offer strategy and pricing expectations, **verify school attendance by address** using official district tools; do not infer from ZIP alone. 
 
 ---
 
 ## Practical Due-Diligence Checklist (95131-specific)
-1. **Flood check:** run the exact address through FEMA MSC and save the panel/map output. citeturn0search2turn0search6  
-2. **Schools:** verify BUSD/ESUHSD attendance by address (ZIP ≠ guaranteed assignment). citeturn0search13turn0search9turn0search5  
+1. **Flood check:** run the exact address through FEMA MSC and save the panel/map output. 
+2. **Schools:** verify BUSD/ESUHSD attendance by address (ZIP ≠ guaranteed assignment).  
 3. **Corridor tradeoffs:** assess noise and air-quality exposure near major arterials/expressways versus interior tracts.  
 4. **Home-age risks:** for older tracts, evaluate electrical capacity, sewer lateral condition, and prior permit history.  
 5. **Employment adjacency:** confirm commute routes to key campuses; peak-hour congestion can materially change travel time variability.
